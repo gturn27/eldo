@@ -40801,5 +40801,18 @@
     "start_date_local": "2026-05-16T05:47:15",
     "type": "TrailRun",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 6321.56005859375,
+    "elevation_gain": 225.9399999976158,
+    "id": "22913237554",
+    "moving_time": 3799.0,
+    "name": "Bountiful Trail Running",
+    "raw_activity_type": "trail_running",
+    "raw_type": "trail_running",
+    "start_date_local": "2026-05-17T05:49:04",
+    "type": "TrailRun",
+    "year": 2026
   }
 ]
